@@ -1,0 +1,6 @@
+Code Katas
+==========
+
+Pratice some coding in potential new languages 
+
+from the [Pragmatic Programmers](http://codekata.pragprog.com/) 

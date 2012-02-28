@@ -1,0 +1,10 @@
+Code Kata Number 2
+==================
+
+[Original Version](http://codekata.pragprog.com/2007/01/kata_two_karate.html)
+
+Implementation of Binary Chop in CoffeeScript using QUnit for Testing
+---------------------------------------------------------------------
+
+1. Implementation of Recursive Binary Search
+2. ...
