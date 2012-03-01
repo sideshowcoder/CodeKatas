@@ -8,7 +8,7 @@ $ ->
   test "Array length 1", -> 
     equal( karate.chop( 1, [0]), -1)
     equal( karate.chop( 1, [1]), 0)
-
+  
   test "Array length > 1 Number contained", -> 
     equal( karate.chop( 0, [0,1,2]), 0)
     equal( karate.chop( 1, [0,1,2]), 1)

@@ -7,4 +7,5 @@ Implementation of Binary Chop in CoffeeScript using QUnit for Testing
 ---------------------------------------------------------------------
 
 1. Implementation of Recursive Binary Search
-2. ...
+2. Iterative implementation using loop and chopping of the array front and back
+3. ...
